@@ -11,3 +11,5 @@ Two main points:
 
 Did you use external tools (including AI)? If yes, how did it help?
 Yes. AI helped me quickly compare two possible approaches vector dot-product versus the Law of Cosines—and select the simpler and more intuitive one for this case. All logic and code were written or adapted by me to fit the assignment requirements (client-side only, no input validation), and thoroughly tested to ensure correctness.
+
+*I did not implement navigation or multiple pages, as the task requirements could be fully met with a single input-to-display flow. This kept the solution lightweight and straightforward.
